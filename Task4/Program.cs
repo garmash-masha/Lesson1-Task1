@@ -13,7 +13,8 @@ if (b > max)
 if (c > max)
 {
     max = c;
-}if (d > max)
+}
+if (d > max)
 {
     max = d;
 }if (e > max)
