@@ -32,4 +32,6 @@ int d = 1;
 int product4 = a * b;
 int sum4 = c + d;
 int quotient4 = product4/sum4;
+
 Console.WriteLine(quotient4);
+
